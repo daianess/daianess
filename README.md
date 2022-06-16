@@ -30,11 +30,13 @@
     
 ###
     
- <img href="https://raw.githubusercontent.com/daianess/daianess/blob/output/snake.svg" alt="Snake animation" />
-
-###
+   ![Snake animation](https://github.com/daianess/daianess/blob/output/github-contribution-grid-snake.svg)  
   
  <!-- 
+
+<img href="https://raw.githubusercontent.com/daianess/daianess/blob/output/snake.svg" alt="Snake animation" />
+
+###
   
   ##
   
