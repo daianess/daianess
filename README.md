@@ -27,6 +27,12 @@
   <img alt="Nodejs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    
+###
+    
+ <img href="https://raw.githubusercontent.com/daianess/daianess/blob/output/snake.svg" alt="Snake animation" />
+
+###
   
  <!-- 
   
